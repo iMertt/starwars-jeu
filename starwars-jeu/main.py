@@ -6,7 +6,7 @@ pygame.mixer.init()
 # Initialisation des dimensions de la fenêtre et du titre
 WIDTH, HEIGHT = 900, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("First Game!")
+pygame.display.set_caption("jeu star wars")
 
 # Définition des couleurs utilisées
 BLANC = (255, 255, 255)
